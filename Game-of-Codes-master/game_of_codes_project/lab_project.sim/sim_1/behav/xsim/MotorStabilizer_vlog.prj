@@ -1,0 +1,16 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  --include "C:/Xilinx/Vivado/2017.3/data/xilinx_vip/include" \
+"../../../../lab_project.srcs/sources_1/new/LFSR.sv" \
+"../../../../lab_project.srcs/sources_1/new/MappingTable.sv" \
+"../../../../../Ready_Modules/SevSeg_4digit.sv" \
+"../../../../../Ready_Modules/keypad4X4.sv" \
+"../../../../../Ready_Modules/stepmotor.sv" \
+"../../../../../Ready_Modules/steppermotor_wrapper.sv" \
+"../../../../lab_project.srcs/sources_1/new/gameContoller.sv" \
+"../../../../lab_project.srcs/sim_1/new/testBench_LFSR.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,13 @@
+0.6
+2017.3
+Oct  4 2017
+20:11:37
+C:/Users/ASTOD/Desktop/CS223/Project/Ready_Modules/SevSeg_4digit.sv,1510909380,systemVerilog,,C:/Users/ASTOD/Desktop/CS223/Project/Ready_Modules/keypad4X4.sv,,SevSeg_4digit,,xil_defaultlib,C:/Xilinx/Vivado/2017.3/data/xilinx_vip/include,,,,,
+C:/Users/ASTOD/Desktop/CS223/Project/Ready_Modules/keypad4X4.sv,1510909368,systemVerilog,,C:/Users/ASTOD/Desktop/CS223/Project/Ready_Modules/stepmotor.sv,,keypad4X4,,xil_defaultlib,C:/Xilinx/Vivado/2017.3/data/xilinx_vip/include,,,,,
+C:/Users/ASTOD/Desktop/CS223/Project/Ready_Modules/stepmotor.sv,1510902948,systemVerilog,,C:/Users/ASTOD/Desktop/CS223/Project/Ready_Modules/steppermotor_wrapper.sv,,stepmotor,,xil_defaultlib,C:/Xilinx/Vivado/2017.3/data/xilinx_vip/include,,,,,
+C:/Users/ASTOD/Desktop/CS223/Project/Ready_Modules/steppermotor_wrapper.sv,1510858304,systemVerilog,,C:/Users/ASTOD/Desktop/CS223/Project/lab_project/lab_project.srcs/sources_1/new/gameContoller.sv,,steppermotor_wrapper,,xil_defaultlib,C:/Xilinx/Vivado/2017.3/data/xilinx_vip/include,,,,,
+C:/Users/ASTOD/Desktop/CS223/Project/lab_project/lab_project.sim/sim_1/behav/xsim/glbl.v,1507081072,verilog,,,,glbl,,xil_defaultlib,,,,,,
+C:/Users/ASTOD/Desktop/CS223/Project/lab_project/lab_project.srcs/sim_1/new/testBench_LFSR.sv,1513518331,systemVerilog,,,,testBench_LFSR,,xil_defaultlib,C:/Xilinx/Vivado/2017.3/data/xilinx_vip/include,,,,,
+C:/Users/ASTOD/Desktop/CS223/Project/lab_project/lab_project.srcs/sources_1/new/LFSR.sv,1513425264,systemVerilog,,C:/Users/ASTOD/Desktop/CS223/Project/lab_project/lab_project.srcs/sources_1/new/MappingTable.sv,,LFSR,,xil_defaultlib,C:/Xilinx/Vivado/2017.3/data/xilinx_vip/include,,,,,
+C:/Users/ASTOD/Desktop/CS223/Project/lab_project/lab_project.srcs/sources_1/new/MappingTable.sv,1513427660,systemVerilog,,C:/Users/ASTOD/Desktop/CS223/Project/Ready_Modules/SevSeg_4digit.sv,,MappingTable,,xil_defaultlib,C:/Xilinx/Vivado/2017.3/data/xilinx_vip/include,,,,,
+C:/Users/ASTOD/Desktop/CS223/Project/lab_project/lab_project.srcs/sources_1/new/gameContoller.sv,1513428872,systemVerilog,,C:/Users/ASTOD/Desktop/CS223/Project/lab_project/lab_project.srcs/sim_1/new/testBench_LFSR.sv,,gameController,,xil_defaultlib,C:/Xilinx/Vivado/2017.3/data/xilinx_vip/include,,,,,
